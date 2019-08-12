@@ -1,0 +1,57 @@
+.btn-twitter {
+  color: #fff;
+  background-color: #55acee;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-instagram {
+  color: #fff;
+  background-color: #3f729b;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.btn-linkedin {
+  color: #fff;
+  background-color: #3f729b;
+  border-color: rgba(0, 0, 0, 0.2);
+}
+
+.footer {
+  background-color: #1b1b1b;
+}
+
+#foot {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#copy {
+  padding-top: 7px;
+  color: white;
+  text-align: right;
+  font-size: 0.5em;
+}
+
+#contact {
+  color: white;
+  font-size: 0.75em;
+}
+
+hr {
+  background-color: white;
+}
+
+body {
+  font-family: "Abril Fatface", cursive;
+}
+
+#center {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#center-title {
+  text-align: center;
+  padding-top: 60px;
+}
